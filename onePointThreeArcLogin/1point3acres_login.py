@@ -8,10 +8,10 @@ driver.get('https://www.1point3acres.com/bbs')
 
 #fill in username and password respectively
 id_box = driver.find_element_by_id('ls_username')
-id_box.send_keys('')
+id_box.send_keys('airstrikers')
 
 pwd_box = driver.find_element_by_id('ls_password')
-pwd_box.send_keys('')
+pwd_box.send_keys('4ffZp69oY*mP')
 
 #login
 login_button = driver.find_element_by_xpath("/html/body/div/div/div/form/div/div/table/tbody/tr/td/button")
