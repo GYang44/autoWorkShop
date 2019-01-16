@@ -2,13 +2,12 @@
 
 This is an repository for automation scripts.
 
-## Setup
-- Install selenium in a python environment
-  > conda install -n yourEnvironment selenium
-- Download Chrome webdriver and put in PATH directories
-- Replace username and password in *id_box.send_keys* and *pwd_box.send_keys*
+Please check each individual project for further infomation.
 
-## Run the script
-Run with pyhon and proper environment.
+##Auto Checkin
+A python based script automate the process of daily login. 
+
+##Pdf Ninja
+A bash script that convert pdf file into png and crop (when required)
 
 MIT Liscense
